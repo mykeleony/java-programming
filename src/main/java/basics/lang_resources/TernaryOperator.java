@@ -1,4 +1,4 @@
-package basics;
+package basics.lang_resources;
 
 public class TernaryOperator {
     public static void main(String[] args) {
