@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="15887268-d42e-48ac-af2c-2947b41345d5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/data_types/Numeric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/data_types/Numeric.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,25 +34,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowBuild.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
-  <component name="RunManager" selected="Application.Numeric">
-    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.loops.DoWhile" />
+}]]></component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.threads.thread_hanging.Test" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.loops.*" />
+          <option name="PATTERN" value="basics.threads.thread_hanging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numeric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.data_types.Numeric" />
+    <configuration name="basics.threads.implementing_Runnable.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.threads.implementing_Runnable.Test" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.data_types.*" />
+          <option name="PATTERN" value="basics.threads.implementing_Runnable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,18 +75,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basics.lang_resources.TernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.lang_resources.TernaryOperator" />
+    <configuration name="basics.threads.resource_sharing.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.threads.resource_sharing.Test" />
       <module name="java-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.threads.resource_sharing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basics.threads.synchronized_elements.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.threads.synchronized_elements.Test" />
+      <module name="java-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.threads.synchronized_elements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basics.threads.thread_priorities.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.threads.thread_priorities.Test" />
+      <module name="java-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.threads.thread_priorities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Numeric" />
-        <item itemvalue="Application.DoWhile" />
-        <item itemvalue="Application.basics.lang_resources.TernaryOperator" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.basics.threads.resource_sharing.Test" />
+        <item itemvalue="Application.basics.threads.synchronized_elements.Test" />
+        <item itemvalue="Application.basics.threads.thread_priorities.Test" />
+        <item itemvalue="Application.basics.threads.implementing_Runnable.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -96,7 +133,13 @@
       <option name="presentableId" value="Default" />
       <updated>1671678348918</updated>
       <workItem from="1671678352279" duration="3191000" />
-      <workItem from="1671809947454" duration="1351000" />
+      <workItem from="1671809947454" duration="2451000" />
+      <workItem from="1672161586857" duration="1693000" />
+      <workItem from="1672238227981" duration="1186000" />
+      <workItem from="1672682192334" duration="2959000" />
+      <workItem from="1672773588604" duration="2979000" />
+      <workItem from="1672844035827" duration="9607000" />
+      <workItem from="1672933448270" duration="4483000" />
     </task>
     <servers />
   </component>

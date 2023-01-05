@@ -10,6 +10,7 @@ public class Numeric {
         short s1 = 1;   // Smaller integer.
         byte b1 = 1;    // Smallest integer possible.
         char c1 = 0;
+        char c97 = 'a';     // Chars must be contained between simple commas.
         double d1 = 1.0;
         float f1 = 1.0f;    // Java defines double as default for decimal numbers. Therefore, we must explicitly use the 'f' character before the semicolon of a float value.
 
