@@ -52,7 +52,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EnumTest">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basics.enums.value_methods.EnumTest" />
       <module name="java-programming" />
@@ -67,11 +67,24 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.threads.thread_hanging.Test" />
+      <option name="MAIN_CLASS_NAME" value="basics.enums.exercise.Test" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.threads.thread_hanging.*" />
+          <option name="PATTERN" value="basics.enums.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDocument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.enums.abstract_methods.TestDocument" />
+      <module name="java-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.enums.abstract_methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,26 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basics.enums.wrong_usecase.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.enums.wrong_usecase.Test" />
-      <module name="java-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basics.enums.wrong_usecase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestDocument" />
         <item itemvalue="Application.EnumTest" />
         <item itemvalue="Application.basics.enums.enums_as_classes.Test" />
         <item itemvalue="Application.basics.enums.usecase_with_enums.Test" />
-        <item itemvalue="Application.basics.enums.wrong_usecase.Test" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +144,7 @@
       <workItem from="1672773588604" duration="2979000" />
       <workItem from="1672844035827" duration="9607000" />
       <workItem from="1672933448270" duration="10922000" />
-      <workItem from="1673033232304" duration="342000" />
+      <workItem from="1673033232304" duration="2498000" />
     </task>
     <servers />
   </component>
