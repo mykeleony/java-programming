@@ -6,6 +6,33 @@
   <component name="ChangeListManager">
     <list default="true" id="15887268-d42e-48ac-af2c-2947b41345d5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/enums/abstract_methods/DocType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/abstract_methods/DocType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/enums/abstract_methods/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/abstract_methods/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/enums/abstract_methods/TestDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/abstract_methods/TestDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/enums/enums_as_classes/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/enums_as_classes/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/enums/enums_as_classes/WeekDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/enums_as_classes/WeekDays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/enums/examples/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/examples/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/enums/exercise/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/exercise/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/enums/exercise/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/exercise/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/enums/usecase_with_enums/EnumDaysOfTheWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/usecase_with_enums/EnumDaysOfTheWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/enums/usecase_with_enums/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/usecase_with_enums/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/enums/value_methods/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/value_methods/EnumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/enums/wrong_usecase/DaysOfTheWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/wrong_usecase/DaysOfTheWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/enums/wrong_usecase/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/wrong_usecase/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/threads/extending_Thread_class/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/extending_Thread_class/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/threads/extending_Thread_class/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/extending_Thread_class/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/threads/implementing_Runnable/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/implementing_Runnable/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/threads/implementing_Runnable/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/implementing_Runnable/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/threads/resource_sharing/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/resource_sharing/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/threads/resource_sharing/TicTac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/resource_sharing/TicTac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/threads/resource_sharing/TicTacThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/resource_sharing/TicTacThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/threads/synchronized_elements/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/synchronized_elements/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/threads/synchronized_elements/MyCalculatorThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/synchronized_elements/MyCalculatorThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/threads/synchronized_elements/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/synchronized_elements/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/threads/thread_hanging/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/thread_hanging/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/threads/thread_hanging/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/thread_hanging/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/threads/thread_priorities/MyRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/thread_priorities/MyRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/threads/thread_priorities/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/thread_priorities/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +79,13 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.enums.value_methods.EnumTest" />
+  <component name="RunManager" selected="Application.BoxingAndUnboxing">
+    <configuration name="BoxingAndUnboxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediates.wrapper_classes.autoboxing.BoxingAndUnboxing" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.enums.value_methods.*" />
+          <option name="PATTERN" value="intermediates.wrapper_classes.autoboxing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.enums.exercise.Test" />
+    <configuration name="WrapperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediates.wrapper_classes.WrapperTest" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.enums.exercise.*" />
+          <option name="PATTERN" value="intermediates.wrapper_classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDocument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.enums.abstract_methods.TestDocument" />
+    <configuration name="intermediates.enums.abstract_methods.TestDocument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediates.enums.abstract_methods.TestDocument" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.enums.abstract_methods.*" />
+          <option name="PATTERN" value="intermediates.enums.abstract_methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basics.enums.enums_as_classes.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.enums.enums_as_classes.Test" />
+    <configuration name="intermediates.enums.exercise.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediates.enums.exercise.Test" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.enums.enums_as_classes.*" />
+          <option name="PATTERN" value="intermediates.enums.exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basics.enums.usecase_with_enums.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.enums.usecase_with_enums.Test" />
+    <configuration name="intermediates.enums.value_methods.EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediates.enums.value_methods.EnumTest" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.enums.usecase_with_enums.*" />
+          <option name="PATTERN" value="intermediates.enums.value_methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TestDocument" />
-        <item itemvalue="Application.EnumTest" />
-        <item itemvalue="Application.basics.enums.enums_as_classes.Test" />
-        <item itemvalue="Application.basics.enums.usecase_with_enums.Test" />
+        <item itemvalue="Application.BoxingAndUnboxing" />
+        <item itemvalue="Application.WrapperTest" />
+        <item itemvalue="Application.intermediates.enums.exercise.Test" />
+        <item itemvalue="Application.intermediates.enums.abstract_methods.TestDocument" />
+        <item itemvalue="Application.intermediates.enums.value_methods.EnumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +171,8 @@
       <workItem from="1672773588604" duration="2979000" />
       <workItem from="1672844035827" duration="9607000" />
       <workItem from="1672933448270" duration="10922000" />
-      <workItem from="1673033232304" duration="2498000" />
+      <workItem from="1673033232304" duration="3291000" />
+      <workItem from="1673275285731" duration="1976000" />
     </task>
     <servers />
   </component>
