@@ -52,9 +52,22 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ConcatenatingAndSpliting">
+  <component name="RunManager" selected="Application.ElegantConcatenation">
     <configuration name="ConcatenatingAndSpliting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intermediates.string_manipulation.ConcatenatingAndSpliting" />
+      <module name="java-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediates.string_manipulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElegantConcatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediates.string_manipulation.ElegantConcatenation" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
@@ -92,19 +105,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediates.string_manipulation.StringMethods" />
-      <module name="java-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="intermediates.string_manipulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UpperAndLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intermediates.string_manipulation.UpperAndLowerCase" />
       <module name="java-programming" />
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ElegantConcatenation" />
         <item itemvalue="Application.ConcatenatingAndSpliting" />
         <item itemvalue="Application.UpperAndLowerCase" />
         <item itemvalue="Application.ModifyingStrings" />
         <item itemvalue="Application.Searches" />
-        <item itemvalue="Application.StringMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +146,7 @@
       <workItem from="1672933448270" duration="10922000" />
       <workItem from="1673033232304" duration="3291000" />
       <workItem from="1673275285731" duration="8913000" />
-      <workItem from="1673359705234" duration="8801000" />
+      <workItem from="1673359705234" duration="9862000" />
     </task>
     <servers />
   </component>
