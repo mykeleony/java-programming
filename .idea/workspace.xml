@@ -52,13 +52,13 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VarargsExample">
-    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediates.varargs.without_varargs.ArrayExample" />
+  <component name="RunManager" selected="Application.intermediates.nested_classes.anonymous_classes.implementing_interfaces.Anonymous">
+    <configuration name="Anonymous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediates.nested_classes.anonymous_classes.Anonymous" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediates.varargs.without_varargs.*" />
+          <option name="PATTERN" value="intermediates.nested_classes.anonymous_classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoxingAndUnboxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediates.wrapper_classes.autoboxing.BoxingAndUnboxing" />
+    <configuration name="External" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediates.nested_classes.inner_classes.External" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediates.wrapper_classes.autoboxing.*" />
+          <option name="PATTERN" value="intermediates.nested_classes.inner_classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarargsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediates.varargs.with_varargs.VarargsExample" />
+    <configuration name="PrintfExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediates.printf.PrintfExamples" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediates.varargs.with_varargs.*" />
+          <option name="PATTERN" value="intermediates.printf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediates.wrapper_classes.WrapperTest" />
+    <configuration name="intermediates.nested_classes.anonymous_classes.implementing_interfaces.Anonymous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediates.nested_classes.anonymous_classes.implementing_interfaces.Anonymous" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediates.wrapper_classes.*" />
+          <option name="PATTERN" value="intermediates.nested_classes.anonymous_classes.implementing_interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="intermediates.enums.exercise.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediates.enums.exercise.Test" />
+    <configuration name="intermediates.nested_classes.local_classes.External" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediates.nested_classes.local_classes.External" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediates.enums.exercise.*" />
+          <option name="PATTERN" value="intermediates.nested_classes.local_classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VarargsExample" />
-        <item itemvalue="Application.ArrayExample" />
-        <item itemvalue="Application.BoxingAndUnboxing" />
-        <item itemvalue="Application.WrapperTest" />
-        <item itemvalue="Application.intermediates.enums.exercise.Test" />
+        <item itemvalue="Application.intermediates.nested_classes.anonymous_classes.implementing_interfaces.Anonymous" />
+        <item itemvalue="Application.Anonymous" />
+        <item itemvalue="Application.intermediates.nested_classes.local_classes.External" />
+        <item itemvalue="Application.External" />
+        <item itemvalue="Application.PrintfExamples" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +145,8 @@
       <workItem from="1672844035827" duration="9607000" />
       <workItem from="1672933448270" duration="10922000" />
       <workItem from="1673033232304" duration="3291000" />
-      <workItem from="1673275285731" duration="5418000" />
+      <workItem from="1673275285731" duration="8913000" />
+      <workItem from="1673359705234" duration="610000" />
     </task>
     <servers />
   </component>
