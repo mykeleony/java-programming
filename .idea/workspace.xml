@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="15887268-d42e-48ac-af2c-2947b41345d5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/intermediates/string_manipulation/ModifyingStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/string_manipulation/ModifyingStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Searches">
+  <component name="RunManager" selected="Application.ModifyingStrings">
     <configuration name="ExtractingChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intermediates.string_manipulation.ExtractingChars" />
       <module name="java-programming" />
@@ -66,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Searches" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediates.string_manipulation.Searches" />
+    <configuration name="ModifyingStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediates.string_manipulation.ModifyingStrings" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediates.string_manipulation.StringCreation" />
+    <configuration name="Searches" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediates.string_manipulation.Searches" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ModifyingStrings" />
         <item itemvalue="Application.Searches" />
         <item itemvalue="Application.StringMethods" />
         <item itemvalue="Application.ExtractingChars" />
         <item itemvalue="Application.intermediates.string_manipulation.Concatenation" />
-        <item itemvalue="Application.StringCreation" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +147,7 @@
       <workItem from="1672933448270" duration="10922000" />
       <workItem from="1673033232304" duration="3291000" />
       <workItem from="1673275285731" duration="8913000" />
-      <workItem from="1673359705234" duration="6395000" />
+      <workItem from="1673359705234" duration="7723000" />
     </task>
     <servers />
   </component>
