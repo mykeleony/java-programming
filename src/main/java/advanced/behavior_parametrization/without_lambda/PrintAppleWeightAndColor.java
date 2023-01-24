@@ -1,4 +1,4 @@
-package advanced.behavior_parametrization;
+package advanced.behavior_parametrization.without_lambda;
 
 public class PrintAppleWeightAndColor implements ApplePrintStrategy {
     @Override
