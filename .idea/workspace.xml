@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="15887268-d42e-48ac-af2c-2947b41345d5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/advanced/behavior_parametrization/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/advanced/behavior_parametrization/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +53,13 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.advanced.behavior_parametrization.Test">
-    <configuration name="Dates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediates.util_classes.dates.java8_only.Dates" />
+  <component name="RunManager" selected="Application.AnonymousClassesTest">
+    <configuration name="AnonymousClassesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.behavior_parametrization.without_lambda.AnonymousClassesTest" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediates.util_classes.dates.java8_only.*" />
+          <option name="PATTERN" value="advanced.behavior_parametrization.without_lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="advanced.behavior_parametrization.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.behavior_parametrization.Test" />
+    <configuration name="advanced.behavior_parametrization.without_lambda.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.behavior_parametrization.without_lambda.Test" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.behavior_parametrization.*" />
+          <option name="PATTERN" value="advanced.behavior_parametrization.without_lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.advanced.behavior_parametrization.Test" />
+        <item itemvalue="Application.AnonymousClassesTest" />
+        <item itemvalue="Application.advanced.behavior_parametrization.without_lambda.Test" />
         <item itemvalue="Application.LambdaFunctions" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Dates" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +151,7 @@
       <workItem from="1673447949040" duration="9831000" />
       <workItem from="1673591229268" duration="104000" />
       <workItem from="1673882391305" duration="3763000" />
-      <workItem from="1674504392775" duration="4432000" />
+      <workItem from="1674504392775" duration="4813000" />
     </task>
     <servers />
   </component>
