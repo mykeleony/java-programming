@@ -1,4 +1,4 @@
-package intermediates.enums.threads.thread_hanging;
+package intermediates.threads.thread_hanging;
 
 public class Test {
     public static void main(String[] args) {

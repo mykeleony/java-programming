@@ -1,4 +1,4 @@
-package intermediates.enums.threads.resource_sharing;
+package intermediates.threads.resource_sharing;
 
 /**
  Date: 01/05/2023

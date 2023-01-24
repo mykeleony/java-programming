@@ -1,4 +1,4 @@
-package intermediates.enums.threads.thread_priorities;
+package intermediates.threads.thread_priorities;
 
 public class MyRunnable implements Runnable {
 

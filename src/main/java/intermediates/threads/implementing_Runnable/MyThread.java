@@ -1,4 +1,4 @@
-package intermediates.enums.threads.implementing_Runnable;
+package intermediates.threads.implementing_Runnable;
 
 public class MyThread implements Runnable {
     private String name;

@@ -1,4 +1,4 @@
-package intermediates.enums.threads.extending_Thread_class;
+package intermediates.threads.extending_Thread_class;
 
 public class MyThread extends Thread {
 

@@ -1,4 +1,4 @@
-package intermediates.enums.threads.thread_priorities;
+package intermediates.threads.thread_priorities;
 
 public class Test {
     public static void main(String[] args) {

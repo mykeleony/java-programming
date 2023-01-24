@@ -1,4 +1,4 @@
-package intermediates.enums.threads.thread_hanging;
+package intermediates.threads.thread_hanging;
 
 /**
  Date: 01/05/2023

@@ -1,4 +1,4 @@
-package intermediates.enums.threads.resource_sharing;
+package intermediates.threads.resource_sharing;
 
 public class Test {
     public static void main(String[] args) {

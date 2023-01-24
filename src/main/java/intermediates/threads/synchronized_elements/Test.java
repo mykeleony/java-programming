@@ -1,4 +1,4 @@
-package intermediates.enums.threads.synchronized_elements;
+package intermediates.threads.synchronized_elements;
 
 public class Test {
 
