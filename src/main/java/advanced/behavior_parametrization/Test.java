@@ -12,5 +12,6 @@ public class Test {
 
         Apple.prettyPrintApple(apples, new PrintAppleWeightAndColor());
         Apple.prettyPrintApple(apples, new PrintAppleWeight());
+        Apple.prettyPrintApple(apples, new PrintColorWeightHeavy());
     }
 }

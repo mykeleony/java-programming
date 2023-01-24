@@ -6,20 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="15887268-d42e-48ac-af2c-2947b41345d5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/extending_Thread_class/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/threads/extending_Thread_class/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/extending_Thread_class/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/threads/extending_Thread_class/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/implementing_Runnable/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/threads/implementing_Runnable/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/implementing_Runnable/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/threads/implementing_Runnable/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/resource_sharing/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/threads/resource_sharing/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/resource_sharing/TicTac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/threads/resource_sharing/TicTac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/resource_sharing/TicTacThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/threads/resource_sharing/TicTacThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/synchronized_elements/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/threads/synchronized_elements/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/synchronized_elements/MyCalculatorThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/threads/synchronized_elements/MyCalculatorThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/synchronized_elements/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/threads/synchronized_elements/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/thread_hanging/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/threads/thread_hanging/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/thread_hanging/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/threads/thread_hanging/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/thread_priorities/MyRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/threads/thread_priorities/MyRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/intermediates/enums/threads/thread_priorities/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intermediates/threads/thread_priorities/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced/behavior_parametrization/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/advanced/behavior_parametrization/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +54,7 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.advanced.behavio_parametrization.Test">
+  <component name="RunManager" selected="Application.advanced.behavior_parametrization.Test">
     <configuration name="Dates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intermediates.util_classes.dates.java8_only.Dates" />
       <module name="java-programming" />
@@ -120,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="advanced.behavio_parametrization.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.behavio_parametrization.Test" />
+    <configuration name="advanced.behavior_parametrization.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.behavior_parametrization.Test" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.behavio_parametrization.*" />
+          <option name="PATTERN" value="advanced.behavior_parametrization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,7 +122,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.advanced.behavio_parametrization.Test" />
+        <item itemvalue="Application.advanced.behavior_parametrization.Test" />
         <item itemvalue="Application.LambdaFunctions" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
@@ -165,7 +152,7 @@
       <workItem from="1673447949040" duration="9831000" />
       <workItem from="1673591229268" duration="104000" />
       <workItem from="1673882391305" duration="3763000" />
-      <workItem from="1674504392775" duration="4132000" />
+      <workItem from="1674504392775" duration="4432000" />
     </task>
     <servers />
   </component>
