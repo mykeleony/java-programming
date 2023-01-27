@@ -54,20 +54,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.intermediates.generics.wildcards.bounded_wildcards.Test">
-    <configuration name="AnonymousClassesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.behavior_parametrization.without_lambda.AnonymousClassesTest" />
-      <module name="java-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="advanced.behavior_parametrization.without_lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.intermediates.generics.wildcards.get_put_principle.Test">
     <configuration name="LambdaApplePrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="advanced.behavior_parametrization.with_lambda.LambdaApplePrinter" />
       <module name="java-programming" />
@@ -120,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="intermediates.generics.wildcards.get_put_principle.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediates.generics.wildcards.get_put_principle.Test" />
+      <module name="java-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediates.generics.wildcards.get_put_principle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.intermediates.generics.wildcards.get_put_principle.Test" />
         <item itemvalue="Application.intermediates.generics.wildcards.bounded_wildcards.Test" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.intermediates.generics.Test" />
         <item itemvalue="Application.LambdaApplePrinter" />
-        <item itemvalue="Application.AnonymousClassesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +154,7 @@
       <workItem from="1673882391305" duration="3763000" />
       <workItem from="1674504392775" duration="5353000" />
       <workItem from="1674585097833" duration="2070000" />
-      <workItem from="1674774867192" duration="6034000" />
+      <workItem from="1674774867192" duration="7672000" />
     </task>
     <servers />
   </component>
