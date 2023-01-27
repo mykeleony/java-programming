@@ -54,7 +54,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LambdaApplePrinter">
+  <component name="RunManager" selected="Application.intermediates.generics.Test">
     <configuration name="AnonymousClassesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="advanced.behavior_parametrization.without_lambda.AnonymousClassesTest" />
       <module name="java-programming" />
@@ -94,19 +94,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.recursion.Test" />
-      <module name="java-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basics.recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="advanced.behavior_parametrization.without_lambda.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="advanced.behavior_parametrization.without_lambda.Test" />
       <module name="java-programming" />
@@ -120,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="intermediates.generics.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediates.generics.Test" />
+      <module name="java-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediates.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.intermediates.generics.Test" />
         <item itemvalue="Application.LambdaApplePrinter" />
         <item itemvalue="Application.AnonymousClassesTest" />
         <item itemvalue="Application.advanced.behavior_parametrization.without_lambda.Test" />
         <item itemvalue="Application.LambdaFunctions" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -154,6 +154,7 @@
       <workItem from="1673882391305" duration="3763000" />
       <workItem from="1674504392775" duration="5353000" />
       <workItem from="1674585097833" duration="2070000" />
+      <workItem from="1674774867192" duration="1355000" />
     </task>
     <servers />
   </component>
