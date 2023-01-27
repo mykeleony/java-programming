@@ -54,13 +54,13 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.intermediates.generics.wildcards.get_put_principle.Test">
-    <configuration name="LambdaApplePrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.behavior_parametrization.with_lambda.LambdaApplePrinter" />
+  <component name="RunManager" selected="Application.intermediates.equals_hashcode.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediates.generics.delimited_generics.Test" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.behavior_parametrization.with_lambda.*" />
+          <option name="PATTERN" value="intermediates.generics.delimited_generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediates.generics.delimited_generics.Test" />
+    <configuration name="intermediates.equals_hashcode.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediates.equals_hashcode.Test" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediates.generics.delimited_generics.*" />
+          <option name="PATTERN" value="intermediates.equals_hashcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.intermediates.equals_hashcode.Test" />
         <item itemvalue="Application.intermediates.generics.wildcards.get_put_principle.Test" />
         <item itemvalue="Application.intermediates.generics.wildcards.bounded_wildcards.Test" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.intermediates.generics.Test" />
-        <item itemvalue="Application.LambdaApplePrinter" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +154,7 @@
       <workItem from="1673882391305" duration="3763000" />
       <workItem from="1674504392775" duration="5353000" />
       <workItem from="1674585097833" duration="2070000" />
-      <workItem from="1674774867192" duration="7672000" />
+      <workItem from="1674774867192" duration="9189000" />
     </task>
     <servers />
   </component>
