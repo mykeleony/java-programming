@@ -54,7 +54,20 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.intermediates.equals_hashcode.Test">
+  <component name="RunManager" selected="Application.SetTest">
+    <configuration name="SetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediates.set.SetTest" />
+      <module name="java-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediates.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intermediates.generics.delimited_generics.Test" />
       <module name="java-programming" />
@@ -74,19 +87,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="intermediates.equals_hashcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="intermediates.generics.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediates.generics.Test" />
-      <module name="java-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="intermediates.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SetTest" />
         <item itemvalue="Application.intermediates.equals_hashcode.Test" />
         <item itemvalue="Application.intermediates.generics.wildcards.get_put_principle.Test" />
         <item itemvalue="Application.intermediates.generics.wildcards.bounded_wildcards.Test" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.intermediates.generics.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +154,8 @@
       <workItem from="1673882391305" duration="3763000" />
       <workItem from="1674504392775" duration="5353000" />
       <workItem from="1674585097833" duration="2070000" />
-      <workItem from="1674774867192" duration="9189000" />
+      <workItem from="1674774867192" duration="9810000" />
+      <workItem from="1674842060745" duration="1451000" />
     </task>
     <servers />
   </component>
