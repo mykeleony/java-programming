@@ -1,4 +1,4 @@
-package advanced.functional_interfaces;
+package advanced.functional_interfaces.predicate;
 
 import advanced.comparator.Product;
 
