@@ -62,13 +62,13 @@
       <recent name="advanced.comparator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.advanced.functional_interfaces.consumer.Test">
-    <configuration name="PredicateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.functional_interfaces.predicate.PredicateExample" />
+  <component name="RunManager" selected="Application.FuncTest">
+    <configuration name="FuncTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.functional_interfaces.function.FuncTest" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.functional_interfaces.predicate.*" />
+          <option name="PATTERN" value="advanced.functional_interfaces.function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,6 +130,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FuncTest" />
         <item itemvalue="Application.advanced.functional_interfaces.consumer.Test" />
         <item itemvalue="Application.advanced.comparator.with_lambda_expressions.Test" />
         <item itemvalue="Application.advanced.comparator.with_anonymous_classes.Test" />
@@ -163,7 +164,7 @@
       <workItem from="1674585097833" duration="2070000" />
       <workItem from="1674774867192" duration="9810000" />
       <workItem from="1674842060745" duration="12711000" />
-      <workItem from="1674916524522" duration="567000" />
+      <workItem from="1674916524522" duration="2485000" />
     </task>
     <servers />
   </component>

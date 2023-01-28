@@ -1,5 +1,7 @@
 package advanced.comparator;
 
+import java.util.Locale;
+
 public class Product {
 
     private String name;
@@ -40,6 +42,14 @@ public class Product {
 
     public void nonStaticUpdatePriceConsumer() {
         setPrice(getPrice() * 1.1);
+    }
+
+    public static String staticToUppercaseName(Product p) {
+        return p.getName().toUpperCase();
+    }
+
+    public String nonStaticToUppercaseName() {
+        return getName().toUpperCase();
     }
 
     @Override
