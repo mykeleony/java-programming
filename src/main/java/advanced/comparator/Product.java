@@ -34,6 +34,14 @@ public class Product {
         return price >= 100.0;
     }
 
+    public static void staticUpdatePriceConsumer(Product p) {
+        p.setPrice(p.getPrice() * 1.1);
+    }
+
+    public void nonStaticUpdatePriceConsumer() {
+        setPrice(getPrice() * 1.1);
+    }
+
     @Override
     public String toString() {
         return "Product{" +
