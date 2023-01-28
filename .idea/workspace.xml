@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="15887268-d42e-48ac-af2c-2947b41345d5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/advanced/comparator/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/advanced/comparator/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,26 +61,13 @@
       <recent name="advanced.comparator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FuncTest">
+  <component name="RunManager" selected="Application.advanced.functional_interfaces.customized.Test">
     <configuration name="FuncTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="advanced.functional_interfaces.function.FuncTest" />
       <module name="java-programming" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="advanced.functional_interfaces.function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.comparator.Test" />
-      <module name="java-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="advanced.comparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,13 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="advanced.functional_interfaces.customized.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.functional_interfaces.customized.Test" />
+      <module name="java-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advanced.functional_interfaces.customized.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.advanced.functional_interfaces.customized.Test" />
         <item itemvalue="Application.FuncTest" />
         <item itemvalue="Application.advanced.functional_interfaces.consumer.Test" />
         <item itemvalue="Application.advanced.comparator.with_lambda_expressions.Test" />
         <item itemvalue="Application.advanced.comparator.with_anonymous_classes.Test" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +163,7 @@
       <workItem from="1674585097833" duration="2070000" />
       <workItem from="1674774867192" duration="9810000" />
       <workItem from="1674842060745" duration="12711000" />
-      <workItem from="1674916524522" duration="2485000" />
+      <workItem from="1674916524522" duration="3996000" />
     </task>
     <servers />
   </component>
