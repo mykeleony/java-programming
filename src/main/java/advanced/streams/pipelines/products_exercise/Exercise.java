@@ -1,4 +1,4 @@
-package advanced.streams.pipelines;
+package advanced.streams.pipelines.products_exercise;
 
 /*
 * Program that reads a file containing several products separate by line, which have its names and prices
