@@ -1,0 +1,6 @@
+Maria,maria@gmail.com,3200.0
+Myke,myke.amorim@usp.br,1900.0
+Debora,debora@debora.com,1200.0
+Reinaldo,rei@gmail.com,3200.0
+Ellen,ellen@ellen.com,5000.0
+Seila,seila@gmail.com,1420.0
