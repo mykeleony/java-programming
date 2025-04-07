@@ -1,6 +1,6 @@
-package basics.data_structures;
+package basics.data_structures.arrays;
 
-public class Array {
+public class AlocacaoEAcesso {
     public static void main(String[] args) {
         int numbers[] = new int[5];
 
